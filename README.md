@@ -20,6 +20,23 @@ Developed an end-to-end Retail Sales Analytics project using Excel, MySQL, Pytho
 - Inventory analysis
 - Store and staff performance
 - Sales trend analysis
+## 📊 Power BI Dashboard Preview
+
+### Inventory & Low Stock Analysis
+1[sales overview]<img width="1747" height="881" alt="image" src="https://github.com/user-attachments/assets/bfd18ce2-5d79-4df4-b829-7ce139293f96" />
+
+
+
+![Inventory Dashboard]<img width="1745" height="877" alt="image" src="https://github.com/user-attachments/assets/be01536d-2863-4f9b-88da-7de3ba10b232" />
+
+
+### Customer Analysis
+![Customer Analysis]<img width="1751" height="892" alt="image" src="https://github.com/user-attachments/assets/6c011202-6a93-4575-b686-7f1755b31d23" />
+
+
+### Staff Performance Analysis
+![Staff Performance]<img width="1746" height="876" alt="image" src="https://github.com/user-attachments/assets/23e5e1ac-3e06-4ddd-87d7-01af862cb60d" />
+
 
 ## 📈 Key Outcomes
 
