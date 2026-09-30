@@ -1,6 +1,6 @@
-# 📊 Retail Sales Analytics
+#  Retail Sales Analytics
 
-## 📌 Project Overview
+## Project Overview
 
 Developed an end-to-end Retail Sales Analytics project using **Excel, MySQL, Python, and Power BI** to analyze sales performance, customer behavior, inventory, and business trends.
 
@@ -8,62 +8,62 @@ The project follows a complete data analytics workflow — from data cleaning an
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
-| 📗 Excel | Data cleaning, validation and initial analysis |
-| 🗄️ MySQL | Data querying and business analysis |
-| 🐍 Python | RFM analysis and customer segmentation |
-| 📊 Power BI | Interactive dashboards and data visualization |
+|  Excel | Data cleaning, validation and initial analysis |
+|  MySQL | Data querying and business analysis |
+|  Python | RFM analysis and customer segmentation |
+| Power BI | Interactive dashboards and data visualization |
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 **Raw Data → Excel → MySQL → Python → Power BI → Business Insights**
 
-### 1️⃣ Data Preparation – Excel
+###  Data Preparation – Excel
 - Cleaned and validated the retail sales dataset
 - Checked missing and inconsistent values
 - Prepared the dataset for further analysis
 
-### 2️⃣ Data Analysis – MySQL
+### Data Analysis – MySQL
 - Performed SQL queries on sales and customer data
 - Analyzed sales performance and customer information
 - Used aggregations, filtering, grouping and business logic
 
-### 3️⃣ Customer Segmentation – Python
+### Customer Segmentation – Python
 - Performed **RFM (Recency, Frequency, Monetary) analysis**
 - Segmented customers based on purchasing behavior
 - Identified valuable and repeat customers
 
-### 4️⃣ Dashboard Development – Power BI
+###  Dashboard Development – Power BI
 - Created interactive dashboards
 - Added KPIs, charts, slicers and filters
 - Analyzed sales, customers, inventory, stores and staff performance
 
 ---
 
-## 🔍 Key Analysis
+##  Key Analysis
 
-- 📈 Sales Performance Analysis
-- 👥 Customer Segmentation using RFM
-- 💰 Top Customer Revenue Analysis
-- 🔁 Repeat Customer Analysis
-- 📦 Inventory Analysis
-- ⚠️ Low Stock Product Analysis
-- 🏪 Store Performance Analysis
-- 👨‍💼 Staff Performance Analysis
-- 📅 Sales Trend Analysis
+-  Sales Performance Analysis
+-  Customer Segmentation using RFM
+-  Top Customer Revenue Analysis
+-  Repeat Customer Analysis
+-  Inventory Analysis
+-  Low Stock Product Analysis
+-  Store Performance Analysis
+-  Staff Performance Analysis
+-  Sales Trend Analysis
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The Power BI dashboard provides interactive analysis across multiple business areas:
 
-## 📊 Power BI Dashboard – Sales Overview
+##  Power BI Dashboard – Sales Overview
 
 The Sales Overview dashboard provides an interactive view of overall retail sales performance.
 - Sales trend analysis
@@ -73,20 +73,20 @@ The Sales Overview dashboard provides an interactive view of overall retail sale
 - Interactive slicers and filters
 - KPI cards for quick business insights
 
-### 📦 Inventory & Low Stock Analysis
+###  Inventory & Low Stock Analysis
 - Total inventory units
 - Low-stock products
 - Product-level stock monitoring
 - Store-level inventory analysis
 
-### 👥 Customer Analysis
+###  Customer Analysis
 - Total customers
 - Customers with orders
 - Repeat customers
 - Top customer revenue
 - Customer segmentation
 
-### 👨‍💼 Staff Performance Analysis
+###  Staff Performance Analysis
 - Store-wise performance
 - Staff-wise performance
 - Sales performance comparison
@@ -94,7 +94,7 @@ The Sales Overview dashboard provides an interactive view of overall retail sale
 
 ---
 
-## 🐍 RFM Customer Segmentation
+##  RFM Customer Segmentation
 
 RFM analysis was performed using Python based on:
 
@@ -106,7 +106,7 @@ This analysis helps understand customer purchasing behavior and identify differe
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 The analysis helps identify:
 
@@ -120,7 +120,7 @@ The analysis helps identify:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 | File | Description |
 |------|-------------|
@@ -131,7 +131,7 @@ The analysis helps identify:
 
 ---
 
-## 🎯 Project Outcome
+##  Project Outcome
 
 Built an end-to-end analytics solution that transforms raw retail data into meaningful insights using **Excel, MySQL, Python and Power BI**.
 
@@ -139,6 +139,6 @@ The project demonstrates practical skills in **data cleaning, SQL analysis, Pyth
 
 ---
 
-## 👨‍💻 Skills Demonstrated
+##  Skills Demonstrated
 
 **Excel | SQL | MySQL | Python | Pandas | RFM Analysis | Power BI | Data Cleaning | Data Visualization | Customer Segmentation | Business Analysis**
