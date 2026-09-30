@@ -1,50 +1,134 @@
-# Retail Sales Analytics
+# 📊 Retail Sales Analytics
 
-## 📊 Project Overview
+## 📌 Project Overview
 
-Developed an end-to-end Retail Sales Analytics project using Excel, MySQL, Python, and Power BI to analyze sales performance, customer behavior, inventory, and business trends.
+Developed an end-to-end Retail Sales Analytics project using **Excel, MySQL, Python, and Power BI** to analyze sales performance, customer behavior, inventory, and business trends.
+
+The project follows a complete data analytics workflow — from data cleaning and SQL analysis to customer segmentation and interactive dashboard development.
+
+---
 
 ## 🛠️ Tools & Technologies
 
-- Excel – Data cleaning and analysis
-- MySQL – Data querying and business analysis
-- Python – RFM customer segmentation
-- Power BI – Interactive dashboard development
+| Tool | Purpose |
+|------|---------|
+| 📗 Excel | Data cleaning, validation and initial analysis |
+| 🗄️ MySQL | Data querying and business analysis |
+| 🐍 Python | RFM analysis and customer segmentation |
+| 📊 Power BI | Interactive dashboards and data visualization |
+
+---
+
+## 🔄 Project Workflow
+
+**Raw Data → Excel → MySQL → Python → Power BI → Business Insights**
+
+### 1️⃣ Data Preparation – Excel
+- Cleaned and validated the retail sales dataset
+- Checked missing and inconsistent values
+- Prepared the dataset for further analysis
+
+### 2️⃣ Data Analysis – MySQL
+- Performed SQL queries on sales and customer data
+- Analyzed sales performance and customer information
+- Used aggregations, filtering, grouping and business logic
+
+### 3️⃣ Customer Segmentation – Python
+- Performed **RFM (Recency, Frequency, Monetary) analysis**
+- Segmented customers based on purchasing behavior
+- Identified valuable and repeat customers
+
+### 4️⃣ Dashboard Development – Power BI
+- Created interactive dashboards
+- Added KPIs, charts, slicers and filters
+- Analyzed sales, customers, inventory, stores and staff performance
+
+---
 
 ## 🔍 Key Analysis
 
-- Sales performance analysis
-- Customer segmentation using RFM
-- Top customer identification
-- Low-stock product analysis
-- Inventory analysis
-- Store and staff performance
-- Sales trend analysis
-## 📊 Power BI Dashboard Preview
+- 📈 Sales Performance Analysis
+- 👥 Customer Segmentation using RFM
+- 💰 Top Customer Revenue Analysis
+- 🔁 Repeat Customer Analysis
+- 📦 Inventory Analysis
+- ⚠️ Low Stock Product Analysis
+- 🏪 Store Performance Analysis
+- 👨‍💼 Staff Performance Analysis
+- 📅 Sales Trend Analysis
 
-### Inventory & Low Stock Analysis
-1[sales overview]<img width="1747" height="881" alt="image" src="https://github.com/user-attachments/assets/bfd18ce2-5d79-4df4-b829-7ce139293f96" />
+---
 
+## 📊 Power BI Dashboard
 
+The Power BI dashboard provides interactive analysis across multiple business areas:
 
-![Inventory Dashboard]<img width="1745" height="877" alt="image" src="https://github.com/user-attachments/assets/be01536d-2863-4f9b-88da-7de3ba10b232" />
+### 📦 Inventory & Low Stock Analysis
+- Total inventory units
+- Low-stock products
+- Product-level stock monitoring
+- Store-level inventory analysis
 
+### 👥 Customer Analysis
+- Total customers
+- Customers with orders
+- Repeat customers
+- Top customer revenue
+- Customer segmentation
 
-### Customer Analysis
-![Customer Analysis]<img width="1751" height="892" alt="image" src="https://github.com/user-attachments/assets/6c011202-6a93-4575-b686-7f1755b31d23" />
+### 👨‍💼 Staff Performance Analysis
+- Store-wise performance
+- Staff-wise performance
+- Sales performance comparison
+- Interactive staff and store filters
 
+---
 
-### Staff Performance Analysis
-![Staff Performance]<img width="1746" height="876" alt="image" src="https://github.com/user-attachments/assets/23e5e1ac-3e06-4ddd-87d7-01af862cb60d" />
+## 🐍 RFM Customer Segmentation
 
+RFM analysis was performed using Python based on:
 
-## 📈 Key Outcomes
+- **Recency** – How recently a customer purchased
+- **Frequency** – How often a customer purchased
+- **Monetary** – How much a customer spent
 
-Created an interactive Power BI dashboard to transform raw retail data into meaningful business insights and support data-driven decision making.
+This analysis helps understand customer purchasing behavior and identify different customer segments.
+
+---
+
+## 💡 Key Business Insights
+
+The analysis helps identify:
+
+- Products that require stock monitoring
+- High-value and repeat customers
+- Sales performance across stores
+- Customer purchasing patterns
+- Inventory levels and potential excess stock
+- Staff performance across different stores
+- Overall sales trends
+
+---
 
 ## 📁 Project Files
 
-- `Retail_Sales_Analytics_Excel.xlsx` – Excel dataset
-- `Final Project.sql` – MySQL queries
-- `Final Project.ipynb` – Python analysis and RFM
-- `Final_Project_1.pbix` – Power BI dashboard
+| File | Description |
+|------|-------------|
+| `Retail_Sales_Analytics_Excel.xlsx` | Excel dataset and analysis |
+| `Final Project.sql` | MySQL queries and analysis |
+| `Final Project.ipynb` | Python analysis and RFM segmentation |
+| `Final_Project_1.pbix` | Power BI interactive dashboard |
+
+---
+
+## 🎯 Project Outcome
+
+Built an end-to-end analytics solution that transforms raw retail data into meaningful insights using **Excel, MySQL, Python and Power BI**.
+
+The project demonstrates practical skills in **data cleaning, SQL analysis, Python analytics, customer segmentation, dashboard development and business intelligence**.
+
+---
+
+## 👨‍💻 Skills Demonstrated
+
+**Excel | SQL | MySQL | Python | Pandas | RFM Analysis | Power BI | Data Cleaning | Data Visualization | Customer Segmentation | Business Analysis**
