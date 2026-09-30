@@ -63,6 +63,16 @@ The project follows a complete data analytics workflow — from data cleaning an
 
 The Power BI dashboard provides interactive analysis across multiple business areas:
 
+## 📊 Power BI Dashboard – Sales Overview
+
+The Sales Overview dashboard provides an interactive view of overall retail sales performance.
+- Sales trend analysis
+- Product-wise sales analysis
+- Customer and order analysis
+- Store-wise performance
+- Interactive slicers and filters
+- KPI cards for quick business insights
+
 ### 📦 Inventory & Low Stock Analysis
 - Total inventory units
 - Low-stock products
